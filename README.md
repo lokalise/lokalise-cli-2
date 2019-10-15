@@ -17,7 +17,7 @@ docker run \
     --unzip-to /opt/dest
 ```
 		
-### Upload a file from Lokalise
+### Upload a file to Lokalise
 
 ```
 docker run \
