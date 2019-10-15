@@ -1,1 +1,1 @@
-# lokalise-cli-2
+# Lokalise CLI v2 Docker image
