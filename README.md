@@ -1,6 +1,6 @@
 # Lokalise CLI v2 Docker image
 
-Read full CLI v2 docs here: http://docs.lokalise.com/en/articles/3401683-lokalise-cli-v2
+Read full CLI v2 docs at https://docs.lokalise.com/cli2
 
 ## Examples
 
